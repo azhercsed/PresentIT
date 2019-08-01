@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="PresentIt.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+            <section name="WindowsFormsApplication2.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+        <PresentIt.Properties.Settings>
+            <setting name="mycolor" serializeAs="String">
+                <value>Green</value>
+            </setting>
+            <setting name="shape" serializeAs="String">
+                <value>line</value>
+            </setting>
+            <setting name="dashed" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="stroke" serializeAs="String">
+                <value>3</value>
+            </setting>
+            <setting name="linetype" serializeAs="String">
+                <value>normal</value>
+            </setting>
+            <setting name="dash" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="msgcolor" serializeAs="String">
+                <value>Blue</value>
+            </setting>
+            <setting name="minutes" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="colorPrimary" serializeAs="String">
+                <value>Red</value>
+            </setting>
+            <setting name="colorSecondary" serializeAs="String">
+                <value>Purple</value>
+            </setting>
+            <setting name="opacity" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="font" serializeAs="String">
+                <value>Microsoft Sans Serif, 8.25pt</value>
+            </setting>
+            <setting name="verticaltext" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="drawstring" serializeAs="String">
+                <value>PresentIT</value>
+            </setting>
+        </PresentIt.Properties.Settings>
+        <WindowsFormsApplication2.Properties.Settings>
+            <setting name="mycolor" serializeAs="String">
+                <value>Green</value>
+            </setting>
+            <setting name="shape" serializeAs="String">
+                <value>line</value>
+            </setting>
+            <setting name="dashed" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="stroke" serializeAs="String">
+                <value>3</value>
+            </setting>
+            <setting name="linetype" serializeAs="String">
+                <value>normal</value>
+            </setting>
+            <setting name="dash" serializeAs="String">
+                <value>False</value>
+            </setting>
+        </WindowsFormsApplication2.Properties.Settings>
+    </userSettings>
+</configuration>
